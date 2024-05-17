@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>User Management</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>User Management</h1>
+  <div>
+    <button id="getAllUsersBtn">List All Users</button>
+    <button id="getUserByIdBtn">List By ID</button>
+    <button id="getUserByNameBtn">List By Name</button>
+    <button id="getUserByCompanyBtn">List By Company</button>
+    <button id="getUserByEmailBtn">List by Email</button>
+  </div>
+
+  <div id="inputSection">
+    <label for="inputId">ID: </label>
+    <input type="number" id="inputId">
+
+    <label for="inputName">Name: </label>
+    <input type="text" id="inputName">
+
+    <label for="inputCompany">Company: </label>
+    <input type="text" id="inputCompany">
+
+    <label for="inputEmail">Email: </label>
+    <input type="text" id="inputEmail">
+  </div>
+
+  <div id="addUserSection">
+    <h2>Add New User</h2>
+    <form id="addUserForm">
+      <label for="newUserName">Name:</label>
+      <input type="text" id="newUserName" required>
+      <label for="newUserEmail">Email:</label>
+      <input type="email" id="newUserEmail" required>
+      <label for="newUserCompany">Company:</label>
+      <input type="text" id="newUserCompany" required>
+      <label for="newUserPersonalNumber">Personal Number:</label>
+      <input type="text" id="newUserPersonalNumber" required>
+      <label for="newUserBusinessNumber">Business Number:</label>
+      <input type="text" id="newUserBusinessNumber" required>
+      <button type="submit">Add User</button>
+    </form>
+
+    <div id="resultSection">
+      <h2>Results</h2>
+      <pre id="result"></pre>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

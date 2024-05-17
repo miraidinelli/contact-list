@@ -1,0 +1,93 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #444;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+#inputSection,
+#addUserSection {
+  margin: 20px 0;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="email"] {
+  width: calc(100% - 22px);
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+form button {
+  align-self: center;
+  margin-top: 20px;
+}
+
+#resultSection {
+  margin-top: 20px;
+}
+
+#result {
+  background-color: #eef;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+@media (max-width: 600px) {
+  button {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+  #inputSection,
+  #addUserSection {
+    padding: 10px;
+  }
+
+  input[type="text"],
+  input[type="number"],
+  input[type="email"] {
+    width: calc(100% - 20px);
+  }
+}

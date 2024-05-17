@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felnd\\DevProjcs\\\u002BDevs2Blu_Proj\\AulaAPI\\TesteBludata\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBBD49-18D9-4B48-84F7-04DB97497F0E}|TesteBludata\\Teste8Q.csproj|c:\\users\\felnd\\devprojcs\\\u002Bdevs2blu_proj\\aulaapi\\testebludata\\testebludata\\teste8q.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{40EBBD49-18D9-4B48-84F7-04DB97497F0E}|TesteBludata\\Teste8Q.csproj|solutionrelative:testebludata\\teste8q.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40EBBD49-18D9-4B48-84F7-04DB97497F0E}|TesteBludata\\Teste8Q.csproj|c:\\users\\felnd\\devprojcs\\\u002Bdevs2blu_proj\\aulaapi\\testebludata\\testebludata\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40EBBD49-18D9-4B48-84F7-04DB97497F0E}|TesteBludata\\Teste8Q.csproj|solutionrelative:testebludata\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Teste8Q.http",
+              "DocumentMoniker": "C:\\Users\\felnd\\DevProjcs\\\u002BDevs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.http",
+              "RelativeDocumentMoniker": "TesteBludata\\Teste8Q.http",
+              "ToolTip": "C:\\Users\\felnd\\DevProjcs\\\u002BDevs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.http",
+              "RelativeToolTip": "TesteBludata\\Teste8Q.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-17T13:38:05.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\felnd\\DevProjcs\\\u002BDevs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TesteBludata\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\felnd\\DevProjcs\\\u002BDevs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TesteBludata\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:06:13.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 165,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
