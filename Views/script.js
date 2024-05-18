@@ -1,4 +1,4 @@
-const url = "https://localhost:7136";
+const url = "https://localhost:7283";
 
 document
   .getElementById("getAllUsersBtn")
