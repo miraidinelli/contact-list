@@ -29,7 +29,7 @@ namespace Teste8Q.Service
         public async Task<List<User>> UpdateUser(User user, int id)
         {
             var userDb = await _context.User.FindAsync(id);
-            if(userDb == null)
+            if (userDb == null)
             {
                 return null;
             }
@@ -45,7 +45,7 @@ namespace Teste8Q.Service
         public async Task<List<User>> DeleteUserById(int id)
         {
             var userDb = await _context.User.FindAsync(id);
-            if(userDb == null)
+            if (userDb == null)
             {
                 return null;
             }
@@ -56,13 +56,13 @@ namespace Teste8Q.Service
         public async Task<List<User>> GetUserByBusinessNumber(string businessNumber)
         {
             var user = await _context.User.Where(u => u.BusinessNumber == businessNumber).ToListAsync();
-            if(user is null)
+            if (user is null)
                 return null; return user;
         }
 
         public async Task<List<User>> GetUserByCompany(string company)
         {
-            var user = await _context.User.Where(u =>u.Company == company).ToListAsync();
+            var user = await _context.User.Where(u => u.Company == company).ToListAsync();
             if (user is null)
                 return null; return user;
         }
@@ -91,8 +91,8 @@ namespace Teste8Q.Service
         public async Task<List<User>> GetUserByPersonalNumber(string personalNumber)
         {
             var user = await _context.User.Where(u => u.PersonalNumber == personalNumber).ToListAsync();
-            if(user is null)
-                return null ; return user;
+            if (user is null)
+                return null; return user;
         }
     }
 }

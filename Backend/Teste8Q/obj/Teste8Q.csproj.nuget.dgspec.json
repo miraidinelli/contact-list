@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.csproj": {}
+    "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\Teste8Q\\Backend\\Teste8Q\\Teste8Q.csproj": {}
   },
   "projects": {
-    "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.csproj": {
+    "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\Teste8Q\\Backend\\Teste8Q\\Teste8Q.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.csproj",
+        "projectUniqueName": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\Teste8Q\\Backend\\Teste8Q\\Teste8Q.csproj",
         "projectName": "Teste8Q",
-        "projectPath": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\Teste8Q.csproj",
+        "projectPath": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\Teste8Q\\Backend\\Teste8Q\\Teste8Q.csproj",
         "packagesPath": "C:\\Users\\felnd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\TesteBludata\\TesteBludata\\obj\\",
+        "outputPath": "C:\\Users\\felnd\\DevProjcs\\+Devs2Blu_Proj\\AulaAPI\\Teste8Q\\Backend\\Teste8Q\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\felnd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,29 +45,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Azure.Identity": {
-              "target": "Package",
-              "version": "[1.11.3, )"
-            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

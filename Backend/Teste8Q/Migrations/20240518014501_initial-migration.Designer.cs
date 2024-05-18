@@ -11,15 +11,15 @@ using Teste8Q.Data;
 namespace Teste8Q.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20240516134911_initialMigration")]
-    partial class initialMigration
+    [Migration("20240518014501_initial-migration")]
+    partial class initialmigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.0")
+                .HasAnnotation("ProductVersion", "8.0.5")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
